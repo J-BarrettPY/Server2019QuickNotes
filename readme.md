@@ -1,5 +1,9 @@
 # Microsoft Server 2019 Quick Notes
 
+## Set Static IP Address
+
+- Connect the server to a static IP address
+
 ## Change Computer Name
 Naming the computer is an ESSENTIAL first step! Do not pass!
 
