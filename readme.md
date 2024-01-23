@@ -10,6 +10,12 @@ Naming the computer is an ESSENTIAL first step! Do not pass!
 - Select "Local Server"
 - Select computer name and change it
 
+or...
+
+- Right click windows icon
+- Select System
+- Select Rename this PC
+
 ## Install Active Directory
 - Manage
 - Add Roles and Features
