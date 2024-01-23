@@ -1,6 +1,8 @@
 # Microsoft Server 2019 Quick Notes
 
 ## Change Computer Name
+Naming the computer is an ESSENTIAL first step! Do not pass!
+
 - Select "Local Server"
 - Select computer name and change it
 
