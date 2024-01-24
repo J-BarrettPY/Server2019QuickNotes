@@ -1,5 +1,7 @@
 # Microsoft Server 2019 Quick Notes
 
+# Setting Up Domains and Clients
+
 ## Set Static IP Address
 
 - Connect the server to a static IP address
