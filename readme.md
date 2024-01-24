@@ -32,3 +32,8 @@ or...
 - The system will perform a prerequisites check. If all checks are passed, click “Install.”
 - Server will restart. Note that domain name with your username when logging into the server due to being promoted as a domain controller.
 
+
+## Join Client PCs to New Domain
+
+IN ORDER for client PC to join domain, you need to enter in the static ip of the server as the DNS server of the client PC.
+
